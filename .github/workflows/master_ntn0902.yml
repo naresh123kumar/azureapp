@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'ntn0902'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_94C1D64C045C4B5280E1D320B525D7BF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5356626D76D4250A31D9B2999588351 }}
           package: .
